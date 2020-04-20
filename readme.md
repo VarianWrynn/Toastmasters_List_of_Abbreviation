@@ -5,7 +5,7 @@
 
 | 缩写/术语|     解释|  
 | :-------- | :--------| 
-| Agenda | **（Agenda, 议程表）:**作为重视时间管理的组织，所有的头马会议都有Meeting Agenda，有助于与会者事先了解会议流程，方便组织者控制会议时间。    | 
+| Agenda | **（Agenda, 议程表）:** 作为重视时间管理的组织，所有的头马会议都有Meeting Agenda，有助于与会者事先了解会议流程，方便组织者控制会议时间。    | 
 | [Timer](https://www.evernote.com/l/ALrNbZQj-3NFZLr9EsRDf7FGfdf5ui_P3iw/) |   **Timer （时间官）** 职责主要是控制时间，通过出示绿、黄、红三色时间牌和响铃、鼓掌等方式，向演讲者提示用时情况，并予记录和报告。   | 
 | Ah-counter| **Ah-Counter（赘语官）** 职责主要是记录例会中每个人在思考或拖延时间时所发出的尾音、重复或赘语（如嗯、啊、这个、那个、所以说），并予报告。  | 
 | Grammrian|   **Grammarian（语法官）** 职责主要是：（1）准备每周一词，鼓励参会者在讲话中多多使用，提高演讲难度，并增加会议趣味性；（2）聆听、记录和报告每周一词使用情况、演讲者用语中的亮点和糟点，择其要者予以点评。  | 
@@ -13,15 +13,15 @@
 | TTM |**Table Toic Master, 即兴演讲主持人**    | 
 | E/IE | **Individual Evaluator 备稿演讲点评者**   | 
 | GE | **（General Evaluator, 总点评）:** 与个人点评者不同，总点评负责对整场会议的效果进行点评，包括场地、会议氛围、SAA、Timer,Ah-counter,Grammarian，主持人和即兴主持人等进行全面点评，甚至时间许可，可以针对即兴演讲环节的speaker做有针对性的建议与点评。唯一不点评的就是Prepared Speaker,因为他们已经被Individual Evaluator点评过了。  | 
-|Mentoring | Mentoring（导师制）这是会员在头马成长的又一重要方式。会员入会后，应尽快找到自己的师傅（**Mentor**），师傅至少指导学员（**Mentee**）完成前Levl1个3个项目项目、熟悉头马组织、学习资源、例会流程、主要角色等。|
+|Mentoring |** Mentoring（导师制）** 这是会员在头马成长的又一重要方式。会员入会后，应尽快找到自己的师傅（**Mentor**），师傅至少指导学员（**Mentee**）完成前Levl1个3个项目项目、熟悉头马组织、学习资源、例会流程、主要角色等。|
 
 ## 1. 俱乐部干事介绍
 
-![@俱乐部领导手册||500x0](./1578799865866.png)
+![@俱乐部领导手册||500x0](https://github.com/VarianWrynn/Toastmasters_List_of_Abbreviation/blob/master/images/officers.png)
 
 | 缩写/术语|     解释|  
 | :-------- | :--------| 
-|Club Officers|**俱乐部干事（Club Officers）:**头马各层级的管理人员，除全球总部官员之外，其他官员都是纯粹义务性职务，免费为头马会员服务。俱乐部层面设有会长为首的8位官员。现在大部分俱乐部都把club officers叫做`俱乐部官员`，其实这个有点不恰当，包括现在的俱乐部手册里面，都已经统一称呼为`俱乐部干事`了。 |
+|Club Officers|**俱乐部干事（Club Officers）:** 头马各层级的管理人员，除全球总部官员之外，其他官员都是纯粹义务性职务，免费为头马会员服务。俱乐部层面设有会长为首的8位官员。现在大部分俱乐部都把club officers叫做`俱乐部官员`，其实这个有点不恰当，包括现在的俱乐部手册里面，都已经统一称呼为`俱乐部干事`了。 |
 |**IPP**|**(Immediated Past President:即将卸任的主席)**，我们都戏称为:即将过期的主席。但是其实IPP是属于俱乐部八大干事之一，卸任了还是干事，这个是俱乐部手册明确写明的，也说明了，IPP是俱乐部最重要的传承纽带，新主席上任是离不开IPP的帮助的。IPP传承如果断掉，俱乐部通常会出现很多问题。|
 
 ## 2. 俱乐部干事事务介绍
@@ -41,8 +41,8 @@
 | 缩写/术语|     解释|  
 | :-------- | :--------| 
 |**DTM**|**DTM（Distinguished Toastmaster, 杰出会员）** |
-|**CC**|如果你见过一些早期的冠军演讲、点评、即兴演讲等视频，里面可能会提到CC、CL等字眼。 那么CC和CL都是Toastmasters从1970年代开始实施的教育体系，其中`CC`是`Competent Commnucation`的缩写，偏重于培训会员的公众演讲能力。到2021年，CC、CL经典体系已经全部被新的教育体系`Pathways`替换 |
-|**CL**| CL是经典教育体系里面的`Competent Leadership`路径，对于Toastmasters经典教育体系感兴趣的同学，可以参阅这篇文章：[《从菜鸟头马到杰出会员DTM，你需要拥有这些圣经！》](https://mp.weixin.qq.com/s?__biz=MzA4OTk0NjMxNg==&mid=401079430&idx=1&sn=0b9d19368a363487d06f3119b3748ede&scene=1&srcid=01203XSt98uOYzAbQWTc3Ioq&key=f8ab7b995657050ba91c9111a0dd2fa94b65ed750c67124925e661b035a46aa770fbc67a6d6a6575a9e473eab245e191&ascene=0&uin=OTQ4NTIyMDAw&devicetype=iMac%20MacBookPro12,1%20OSX%20OSX%2010.10.5%20build%2814F1808%29&version=11020201&pass_ticket=67sYHJynhM7nQgNF7JI7WgBiJcJ9Pfs/j1UXLyiW5LNkuNBjSaNe9ituBoorLQEB)|
+|**CC**|**Competent Communication**  如果你见过一些早期的冠军演讲、点评、即兴演讲等视频，里面可能会提到CC、CL等字眼。 那么CC和CL都是Toastmasters从1970年代开始实施的教育体系，其中`CC`是`Competent Commnucation`的缩写，偏重于培训会员的公众演讲能力。到2021年，CC、CL经典体系已经全部被新的教育体系`Pathways`替换 |
+|**CL**|**Competent Leadership**  CL是经典教育体系里面的`Competent Leadership`路径，对于Toastmasters经典教育体系感兴趣的同学，可以参阅这篇文章：[《从菜鸟头马到杰出会员DTM，你需要拥有这些圣经！》](https://mp.weixin.qq.com/s?__biz=MzA4OTk0NjMxNg==&mid=401079430&idx=1&sn=0b9d19368a363487d06f3119b3748ede&scene=1&srcid=01203XSt98uOYzAbQWTc3Ioq&key=f8ab7b995657050ba91c9111a0dd2fa94b65ed750c67124925e661b035a46aa770fbc67a6d6a6575a9e473eab245e191&ascene=0&uin=OTQ4NTIyMDAw&devicetype=iMac%20MacBookPro12,1%20OSX%20OSX%2010.10.5%20build%2814F1808%29&version=11020201&pass_ticket=67sYHJynhM7nQgNF7JI7WgBiJcJ9Pfs/j1UXLyiW5LNkuNBjSaNe9ituBoorLQEB)|
 
 
 ## 4. 峰会与比赛
@@ -59,4 +59,6 @@
 | :-------- | :--------| :------ |:------ |:------ |
 | V0.1|   建立| 文档初建|2020-1-6 | Lee|
 | V0.2|   增加| 新增了俱乐部干事、峰会、角色等信息描述|2020-1-9 | Lee|
+|v1.0|增加|push到guthub上|2020-4-20|Lee|
+
 *变化状态：建立，修改，增加，删除
