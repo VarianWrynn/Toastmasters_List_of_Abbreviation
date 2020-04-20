@@ -17,7 +17,7 @@
 
 ## 1. 俱乐部干事介绍
 
-![@俱乐部领导手册||500x0](https://github.com/VarianWrynn/Toastmasters_List_of_Abbreviation/blob/master/images/officers.png)
+<img src="https://github.com/VarianWrynn/Toastmasters_List_of_Abbreviation/blob/master/images/officers.png" width="450" />
 
 | 缩写/术语|     解释|  
 | :-------- | :--------| 
